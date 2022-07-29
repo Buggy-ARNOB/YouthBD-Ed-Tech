@@ -23,3 +23,19 @@
 .brands img {
     height: 25px;
 }
+
+.social-link {
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 30px;
+
+}
+
+footer {
+    background-color: #161616;
+}
+
+.fa-brands {
+    color: aliceblue;
+    padding: 10px;
+}
