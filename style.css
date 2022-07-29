@@ -1,13 +1,3 @@
-.carousel-image {
-    max-height: 600px;
-}
-
-.course {
-    height: 180px;
-    width: 500px;
-
-}
-
 .bonus img {
     height: 400px;
 }
@@ -17,7 +7,7 @@
 }
 
 .faq {
-    width: 60%;
+    width: 70%;
 }
 
 .brands img {
@@ -26,7 +16,7 @@
 
 .social-link {
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     font-size: 30px;
 
 }
